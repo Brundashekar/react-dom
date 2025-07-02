@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Local:            http://localhost:3000
+# On Your Network:  http://192.168.0.105:3000
 
 
 git status
@@ -13,7 +15,6 @@ git commit -m "Initial commit: Add correlation dashboard"
 
 git branch -M main
 git push --set-upstream origin main
-
 
 
 ## Available Scripts
