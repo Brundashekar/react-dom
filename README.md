@@ -13,3 +13,6 @@ git push --set-upstream origin master
 git branch
 
 git push --set-upstream origin master
+
+git branch -M main
+git push --set-upstream origin main
