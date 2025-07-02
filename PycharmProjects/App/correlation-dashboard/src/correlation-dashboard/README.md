@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+git status
+git branch
+
+git add .
+
+git commit -m "Initial commit: Add correlation dashboard"
+
+
+git branch -M main
+git push --set-upstream origin main
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
